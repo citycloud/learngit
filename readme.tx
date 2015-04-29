@@ -2,3 +2,4 @@ git is a distributed veversion control system
 git is freer software distributed under the GPL
 git has a mutable index called stage
 git tracks changes
+git test
